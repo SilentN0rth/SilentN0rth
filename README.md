@@ -51,17 +51,6 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilentN0rth&layout=compact"/>
-  <br/>
-</div>
-
-<br/>
-<hr/>
-
-
-
 <h2 align="center">⚡ Statistics </h2>
 <br>
 <div align=center>
