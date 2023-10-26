@@ -34,18 +34,7 @@
 <h2 align="center">💻 Languages • Frameworks • Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,scss,css,vscode,github,figma,git,gulp" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript" /><br>
-</div>
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions</h2>
-  <br>
-<!--   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /> -->
-  <br/><br/><br/>
+    <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,bootstrap,git,gulp,vscode,github,figma,nodejs,javascript,typescript"/>
 </div>
 
 <br/>
