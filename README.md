@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **...**
+ 🔭 I’m currently working on **first React project (Multifunctional ToDo)**
  
- 🌱 I’m currently learning **JavaScript, TypeScript**
+ 🌱 I’m currently learning **React, TypeScript**
 
  🤔 I am still open to help and new perspectives. 
 
