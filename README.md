@@ -1,5 +1,12 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SilentN0rth" />
-
+<div align="right">
+<!--     <img src="https://images.emojiterra.com/twitter/v14.0/512px/1f1f5-1f1f1.png" style="width: 40px" alt="PL flag"> -->
+    <img src="https://images.emojiterra.com/twitter/v14.0/512px/1f1ec-1f1e7.png" style="width: 40px" alt="GB flag">
+    <a href="https://www.buymeacoffee.com/silentn0rth" target="_blank"><img src="https://media.discordapp.net/attachments/1079137769512779837/1191552557961711696/image.png?ex=65a5dacb&is=659365cb&hm=d65b465bce973b84605fb0e28f26e3c07f654a188560df91ca70c5c0de4dddf2&=&format=webp&quality=lossless" style="width: 175px" alt="Buy me a coffee at buymeacoffe.com"></a>
+</div>
+<div align="right">
+    <img src="https://images.emojiterra.com/twitter/v14.0/512px/1f1f5-1f1f1.png" style="width: 40px" alt="PL flag">
+    <a href="https://buycoffee.to/silentn0rth" target="_blank"><img src="https://media.discordapp.net/attachments/1079137769512779837/1191552557961711696/image.png?ex=65a5dacb&is=659365cb&hm=d65b465bce973b84605fb0e28f26e3c07f654a188560df91ca70c5c0de4dddf2&=&format=webp&quality=lossless" style=" width: 175px" alt="Buy me a coffee at buycoffee.to"></a>
+</div>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=D94B1C&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+SilentN0rth!;" />
 </h1>
@@ -23,10 +30,10 @@
  </div>
  
 <div align="center"> 
-  <a href="https://github.com/SilentN0rth" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
-  </a>
-  <img src="https://dcbadge.vercel.app/api/shield/502613304967954432" />
+    <a href="https://github.com/SilentN0rth" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+    </a>
+    <img src="https://dcbadge.vercel.app/api/shield/502613304967954432" />
 </div>
 
 <hr/>
