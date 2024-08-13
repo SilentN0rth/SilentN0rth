@@ -17,9 +17,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **React projects**
+ 🔭 I’m currently working on **Next projects**
  
- 🌱 I’m currently learning **React, TypeScript**
+ 🌱 I’m currently learning **Next.JS**
 
  🤔 I am still open to help and new perspectives. 
 
@@ -41,7 +41,7 @@
 <h2 align="center">💻 Languages • Frameworks • Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,scss,tailwind,bootstrap,nodejs,git,gulp,vscode,github,figma"/>
+    <img src="https://skillicons.dev/icons?i=next,react,typescript,javascript,html,css,scss,tailwind,bootstrap,nodejs,git,gulp,vscode,github,figma"/>
 </div>
 
 <br/>
